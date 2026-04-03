@@ -31,24 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-
-# Carpetas a excluir
-#1
-#src/main/java/eafit/gruopChat/infrastructure/
-#2
-#src/main/java/eafit/gruopChat/user/
-#3
-#src/main/java/eafit/gruopChat/group/
-#4
-src/main/java/eafit/gruopChat/messaging/
-#5
-src/main/java/eafit/gruopChat/presence/
-#6
-src/main/java/eafit/gruopChat/file/
-#7
-src/main/java/eafit/gruopChat/dm/ 
-#8
-src/main/resources/static/
-#9
-src/main/resources/templates/
